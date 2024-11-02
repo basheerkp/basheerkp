@@ -2,7 +2,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=basheerkp" /></p>
 <ul align="center" style="list-style-type:none;">
 <samp>
-<li>🎓 Bachler of Computer Applications</li>
+<li>🎓 Bachelor of Computer Applications</li>
 <li>🖥️ Focusing on <a href="https://python.org">Python</a>, <a href="https://kotlinlang.org//">Kotlin</a></li>
 <li>⌨️ I know Android Programming, a bit of Linux and Py.
 </ul>
