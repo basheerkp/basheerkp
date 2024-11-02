@@ -10,7 +10,7 @@
     </a>
 </p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/B4SH33R) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basheerkp&hide=css,html&theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/B4SH33R)                      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basheerkp&hide=css,html&theme=dark)
 
 ![basheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=basheerkp&show_icons=true&theme=dark)
 
