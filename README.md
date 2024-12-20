@@ -16,8 +16,7 @@
 
 ![basheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=basheerkp&show_icons=true&theme=dark)
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=basheerkp)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=basheerkp&mode=weekly)](https://git.io/streak-stats)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=basheerkp&theme=darkhub)](https://github.com/basheerkp/github-profile-trophy)
